@@ -46,4 +46,4 @@ Ported to QMK by Techsock <info@techsock.com>
 #define M0110_DATA_DDR          DDRD
 #define M0110_DATA_BIT          0
 
-
+#define DYNAMIC_KEYMAP_LAYER_COUNT 2
